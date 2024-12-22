@@ -2,6 +2,6 @@
 
 ## Projects
 | Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP (Storage, Compute Engine, BigQuery), Mage, Looker Studio | Developed and implemented an end-to-end ETL pipeline for processinsg NYC Trip Record data. The pipeline encompassed extracting raw data, performing data transformation using Python, applying fact and dimensional data modelling techniques, orchestrating the pipeline on Mage, and ultimately creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
+|---|---|---|
+| :notebook: [Comparitive Report on Supervised ML Models](supervised_comparison.pdf) | Python (scikit-learn, pandas)| Extending the methodology performed by Caruana and Niculescu-Mizil in 2006 at UC Irvine, this report compares Random Forests, Logistic Regression, and Support Vector Machines (SVMs) on three large datasets. A grid search was employed to identify the optimal hyperparameters for each classifier. Ultimately, this report provides an analysis of which contexts are best suited for each binary classifier and examines the impact of feature set size and quality. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Python, PostgreSQL, Jupyter Notebook | Designed, created, and deployed a custom data model for a dog adoption data set using Python and PostgreSQL on Jupyter Notebook. |
